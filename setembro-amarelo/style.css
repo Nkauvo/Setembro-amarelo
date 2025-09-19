@@ -1,0 +1,30 @@
+@import url('https://fonts.cdnfonts.com/css/elowen');
+
+h1{
+    font-family: 'Elowen', sans-serif;
+    color: #af6e31;
+}
+
+body{
+    background-color: #fef8cd;
+    text-align: center;
+}
+.logo{
+    width: 90%;
+}
+div {
+    width: 75%;
+    padding: 2%;
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 15px;
+    /* border: 2px solid black */
+    box-shadow: 0 2px 11px rgb(112, 112, 16);
+}
+p{
+    margin-bottom: 3%;
+}
+.esquerda,li{
+    text-align: left;
+
+}
